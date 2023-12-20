@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16f37ebb095d3468983f891f9b43a680, type: 3}
+  m_Name: WorldStageData
+  m_EditorClassIdentifier: 
+  WorldStageList:
+  - id: 101
+    stage_name: "\u30D5\u30E9\u30E0"
+    stamina: 5
+    map_posX: -22
+    map_posY: -6.6
+    battle_stage_id: 101
+    order: 1
+  - id: 102
+    stage_name: "\u30B0\u30EA\u30CB\u30C3\u30B8"
+    stamina: 5
+    map_posX: -22.16
+    map_posY: -4.56
+    battle_stage_id: 102
+    order: 2
+  - id: 103
+    stage_name: "\u30B9\u30C6\u30C3\u30D7\u30CB\u30FC"
+    stamina: 5
+    map_posX: -23.85
+    map_posY: -3.8
+    battle_stage_id: 103
+    order: 3

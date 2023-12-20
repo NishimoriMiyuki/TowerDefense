@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5baf27023224047caa7b6f9c914550ff, type: 3}
+  m_Name: BattleStageData
+  m_EditorClassIdentifier: 
+  BattleStageList:
+  - id: 101
+    reward_xp: 100
+    enemy_spawn_group_id: 10001
+    work_group_id: 10001
+    castle_group_id: 10001
+    bgm_address: Assets/mp3/MusMus-BGM-134.mp3
+    background_address: Game/Sprites/sougen
+  - id: 102
+    reward_xp: 100
+    enemy_spawn_group_id: 10002
+    work_group_id: 10002
+    castle_group_id: 10001
+    bgm_address: Assets/mp3/MusMus-BGM-134.mp3
+    background_address: Game/Sprites/sougen
+  - id: 103
+    reward_xp: 100
+    enemy_spawn_group_id: 10003
+    work_group_id: 10003
+    castle_group_id: 10001
+    bgm_address: Assets/mp3/MusMus-BGM-134.mp3
+    background_address: Game/Sprites/sougen

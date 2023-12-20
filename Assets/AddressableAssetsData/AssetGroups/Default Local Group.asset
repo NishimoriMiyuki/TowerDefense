@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 691a1c29147d9485dbf35e96350d2979
+  m_SerializeEntries:
+  - m_GUID: fc8b8911d24754041a212663998cf7d5
+    m_Address: Home/Prefabs/StageSelectPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f80899ca28fc61d43b4a74883f68af6d
+    m_Address: Game/Sprites/sougen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1eb9daade9bf40cdb7b78176fd79bf8
+    m_Address: Home/Prefabs/StageObject
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7867af58a6ec48846ae807eb4022fbaa
+    m_Address: EnemyDeathSkull
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7772657bc15644c9b8673fda65ac4d39
+    m_Address: Game/Prefabs/Enemy_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8d09fd08faf64418b17f98cc0bd2cb3
+    m_Address: Game/Prefabs/Ally_0_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39ff44b03bc9b431592cc9c127db469a
+    m_Address: Game/Prefabs/ClearPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c802360d3379e4b4b8685a99a7e626b1
+    m_Address: Game/Prefabs/GameOverPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b45df8dfc7b4043578d3cd172b859533
+    m_Address: Home/Prefabs/WorldMap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 573b9cce04da9454593147ef7aa48e2f
+    m_Address: Game/Sprites/icon_bee
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d378f1af10851f84c9d90ac3f3455593
+    m_Address: Game/Sprites/icon_bee_gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cc864c1a55be4f3e8869355b502c7af
+    m_Address: Game/Prefabs/Ally_0_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f39af0add9f84601b1c346e7f000a36
+    m_Address: Game/Sprites/icon_spook
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c714b9ff4d4504aac94f217e928897ea
+    m_Address: Game/Sprites/icon_spook_gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bca927760bfe40c2aabef7f93c479e8
+    m_Address: Game/Prefabs/Ally_0_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9bc268ef497c41f0b988dd5f0f2650d
+    m_Address: Game/Sprites/icon_seed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c25789c721a054801832347ba9239666
+    m_Address: Game/Sprites/icon_seed_gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bf84cc65ece147b1976b9cae6b9df00
+    m_Address: Game/Prefabs/Enemy_0_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 492147c25596344729352b4ffd024997
+    m_Address: Game/Prefabs/Enemy_0_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e35850c95c84a43a28d4bae741f5de19
+    m_Address: Game/Sprites/monster_bee_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c07ae920135c45f2a833079251ac6fe
+    m_Address: Game/Sprites/monster_seed_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 951c99e527f6f451fafe2a028b7b0ddf
+    m_Address: Game/Sprites/monster_bee_icon_gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04c6998cf17e74a3fb740cca084d4269
+    m_Address: Game/Sprites/monster_seed_icon_gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b624152b3f624c86878428066fbb7f7
+    m_Address: Game/Sprites/monster_spook_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77248afc7068e4ec8b1e830e4e47b5e4
+    m_Address: Game/Sprites/monster_spook_icon_gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7d7b38c86fd044dbaefaec4cdee24d2
+    m_Address: zyukaidensetu_yugudorasion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44047fddd589d40579968e775ff0466d
+    m_Address: "mp3/\u6C7A\u5B9A\u30DB\u3099\u30BF\u30F3\u3092\u62BC\u305942"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2285fe05002d74754a158e83d9ba42ea
+    m_Address: Home/Prefabs/UnitOrganizationPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc21d1e4cf69f9544a26c2a417a8820a
+    m_Address: Home/Sprites/monsterbutton0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2fbd32bb19f98644967417836624a94
+    m_Address: Prefabs/Dialog/DialogPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7abe3eae8b23ab41ba403860d645512
+    m_Address: Prefabs/Dialog/DialogText
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 554b462b019dd4d45b5132ce5a9e1b2a
+    m_Address: Prefabs/Dialog/OkCancelPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae36a6bb75d0f8e42a885c4479b1fb70
+    m_Address: Prefabs/Dialog/OKPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d4a6c097c9ed4982af2d99ef808a225
+    m_Address: Home/Prefabs/PowerUpPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afbdff10699ad450caf63ef2e7ccaf96
+    m_Address: Home/Sprites/monsterbuttonsq1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3bfe8798b69541f1bbd4884cbd32c95
+    m_Address: Home/Sprites/monsterbuttonsq4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc31f6a4ca6994f258681b78f5c9de15
+    m_Address: Home/Sprites/monsterbuttonsq6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4f34171377314c80ad280e430a39a4a
+    m_Address: Home/Sprites/monsterbuttonsq0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdff126d9c5ab403b80d9449c8db030e
+    m_Address: Assets/mp3/btn05.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4785e18cd7de4ca3826f1ac42d78474
+    m_Address: Assets/mp3/MusMus-BGM-115.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93e31f9ba1ee64f70b8358e9d13a2f21
+    m_Address: Assets/mp3/btn06.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 363a6166945464027abf4947af6a7d3e
+    m_Address: "Assets/mp3/\u30EC\u30CF\u3099\u30FC\u3092\u5012\u3059.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6aea72d7c1cf423d9d0ab8a979dcdf5
+    m_Address: Assets/mp3/gogogo.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e41d877636eb64bd78f3620b2f2ac7d5
+    m_Address: "Assets/mp3/\u30AB\u30FC\u30BD\u30EB\u79FB\u52D510.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 063b32f13d9fa4416ae8324fa2288c9c
+    m_Address: Assets/mp3/Victory.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81f7fb5a0dff94e42828634516cea7e6
+    m_Address: "Assets/mp3/\u30C8\u3099\u30A2\u30CE\u30D5\u3099\uFF08\u304B\u3099\u3061\u3083\u304B\u3099\u3061\u3083\uFF09.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4519f140781ea4f39a2ab1e87fa9d86d
+    m_Address: "Assets/mp3/\u30CB\u30E5\u30C33.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cd433e69f8004dd8ab25654ddf0a6e4
+    m_Address: "Assets/mp3/\u565B\u307F\u3064\u304F.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2aa1790b9cb41488fadeb2b6703745f3
+    m_Address: "Assets/mp3/\u6253\u64834.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbc464c799d0345278e8bd00b48841b6
+    m_Address: "Assets/mp3/\u30C1\u30FC\u30F31.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57219979b879042dab3f57a37bc36a67
+    m_Address: Assets/mp3/Cash_Register-Drawer01-1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a0c7586dbb264ca1858ca60f963c020
+    m_Address: Assets/mp3/MusMus-BGM-125.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 382c7ea667553402d847ff2c5ac754ea
+    m_Address: Assets/mp3/MusMus-BGM-134.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f305c239b6d664a25853a4bc969b0ade
+    m_Address: "Assets/mp3/\u6C7A\u5B9A\u30DB\u3099\u30BF\u30F3\u3092\u62BC\u305913.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20f4ce33532fb478c85a2aa2051011e7
+    m_Address: "Assets/mp3/\u30AD\u30E3\u30F3\u30BB\u30EB3.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b74c2fe1337bf4474a28a203b5bdab38
+    m_Address: "Assets/mp3/\u6C7A\u5B9A\u30DB\u3099\u30BF\u30F3\u3092\u62BC\u305916.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd121993327e44a179a76dafc96a2f1d
+    m_Address: "Assets/mp3/\u6C7A\u5B9A\u30DB\u3099\u30BF\u30F3\u3092\u62BC\u305931.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1af33d5177034dbdbe44d5287b713ff
+    m_Address: Assets/mp3/zannense.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1f77aacb0f518434f8d5f36eadee7fb4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8d6f91a859678432e8321fce819027d9, type: 2}
+    - {fileID: 11400000, guid: 94b6e625a86514801bb352750fa80fc1, type: 2}

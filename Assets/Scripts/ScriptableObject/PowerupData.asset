@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c9319d3f345384eb82f12579715488, type: 3}
+  m_Name: PowerupData
+  m_EditorClassIdentifier: 
+  PowerupList:
+  - id: 101
+    group_id: 10001
+    requird_xp: 50
+    lv: 2
+  - id: 102
+    group_id: 10001
+    requird_xp: 80
+    lv: 3
+  - id: 103
+    group_id: 10001
+    requird_xp: 110
+    lv: 3
+  - id: 104
+    group_id: 10001
+    requird_xp: 140
+    lv: 4
+  - id: 105
+    group_id: 10001
+    requird_xp: 170
+    lv: 5
+  - id: 106
+    group_id: 10001
+    requird_xp: 200
+    lv: 6
+  - id: 107
+    group_id: 10001
+    requird_xp: 230
+    lv: 7
+  - id: 108
+    group_id: 10001
+    requird_xp: 260
+    lv: 8
+  - id: 109
+    group_id: 10001
+    requird_xp: 290
+    lv: 9
+  - id: 110
+    group_id: 10001
+    requird_xp: 320
+    lv: 10
